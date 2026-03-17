@@ -1,8 +1,7 @@
 streamlit
-tensorflow
 numpy
 pandas
 scikit-learn
 joblib
 matplotlib
-pytorch
+h5py
